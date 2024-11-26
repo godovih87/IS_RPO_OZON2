@@ -1,0 +1,10 @@
+C:\Users\Егор\Desktop\OZON 2\bin\Debug\OZON 2.exe.config
+C:\Users\Егор\Desktop\OZON 2\bin\Debug\OZON 2.exe
+C:\Users\Егор\Desktop\OZON 2\bin\Debug\OZON 2.pdb
+C:\Users\Егор\Desktop\OZON 2\obj\Debug\OZON 2.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\OZON 2\obj\Debug\OZON_2.Form1.resources
+C:\Users\Егор\Desktop\OZON 2\obj\Debug\OZON_2.Properties.Resources.resources
+C:\Users\Егор\Desktop\OZON 2\obj\Debug\OZON 2.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\OZON 2\obj\Debug\OZON 2.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\OZON 2\obj\Debug\OZON 2.exe
+C:\Users\Егор\Desktop\OZON 2\obj\Debug\OZON 2.pdb
